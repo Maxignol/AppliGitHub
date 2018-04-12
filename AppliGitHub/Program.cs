@@ -16,7 +16,7 @@ namespace AppliGitHub
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Formmax());
+            Application.Run(new Form1());
         }
     }
 }
