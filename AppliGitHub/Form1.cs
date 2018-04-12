@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AppliGitHub
 {
-    public partial class Form1 : Form
+    public partial class Formmax : Form
     {
-        public Form1()
+        public Formmax()
         {
             InitializeComponent();
         }
